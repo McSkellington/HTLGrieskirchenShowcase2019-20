@@ -168,5 +168,12 @@
        "author": "Raphael Eckmayr",
        "year": "2019_WS",
        "status":  -1
-     }
+     },
+	{
+		"title": "Skeletongame",
+		"folder": "Skeletongame web",
+		"author": "Michael Gahbauer",
+		"year": "2019_WS",
+		"status": 0
+	}
 ]
